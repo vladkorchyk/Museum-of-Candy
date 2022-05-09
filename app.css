@@ -31,9 +31,3 @@ body {
 #mainNavbar .nav-link:hover {
     color: #dc4153;
 }
-
-@media (max-width: 1200px) {
-    #headingGroup h2 {
-        font-size: 3rem;
-    }
-}
