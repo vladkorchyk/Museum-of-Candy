@@ -3,7 +3,7 @@ body {
     font-family: "Nunito", sans-serif;
 }
 
-h2 {
+#headingGroup h2 {
     font-size: 4rem;
     font-weight: 100;
 }
@@ -30,4 +30,10 @@ h2 {
 
 #mainNavbar .nav-link:hover {
     color: #dc4153;
+}
+
+@media (max-width: 1200px) {
+    #headingGroup h2 {
+        font-size: 3rem;
+    }
 }
