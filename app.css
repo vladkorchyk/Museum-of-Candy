@@ -3,9 +3,25 @@ body {
     font-family: "Nunito", sans-serif;
 }
 
-#headingGroup h2 {
+h2 {
     font-size: 4rem;
     font-weight: 100;
+    color: white;
+}
+
+.text h2 {
+    font-size: 3rem;
+}
+
+.text p {
+    font-size: 1.2rem;
+    font-weight: 100;
+    line-height: 2;
+    color: #dc4153;
+}
+
+.content {
+    margin-top: 100px;
 }
 
 #headingGroup span {
