@@ -52,4 +52,13 @@ h2 {
     #headingGroup h2 {
         font-size: 3rem;
     }
+
+    .text p {
+        font-size: 0.8rem;
+    }
+
+    .text h2 {
+        font-size: 2rem;
+    }
+
 }
