@@ -48,6 +48,11 @@ h2 {
     color: #dc4153;
 }
 
+.navbar.scrolled {
+    background: plum;
+    transition: background 500ms;
+}
+
 @media (max-width: 1250px) {
     #headingGroup h2 {
         font-size: 3rem;
